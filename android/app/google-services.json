@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1097890445055",
+    "project_id": "social-images-2cbed",
+    "storage_bucket": "social-images-2cbed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097890445055:android:a3a0aa67c0859db4a4feca",
+        "android_client_info": {
+          "package_name": "com.example.Imagesio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097890445055-9s7rrg2k7nnetks8oenh11vkcoch0n5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD88q_e-0cxyrdWiwbcEPtIfUq3WRJfHYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097890445055-9s7rrg2k7nnetks8oenh11vkcoch0n5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
